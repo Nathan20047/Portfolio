@@ -11,8 +11,8 @@ const MyComponent: React.FC<MyComponentProps> = ({ title }) => {
     <Container>
       <Header>{title}</Header>
       
-      <p>Roll No: 9813</p>
-      <p>Batch: D</p>
+      <p>Roll No: 9866</p>
+      <p>Batch: B</p>
       <p>Branch: Electronics and Computer Science</p>
     
     </Container>
